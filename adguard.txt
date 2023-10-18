@@ -1,2 +1,2 @@
-youtube.com##*[role=dialog]
-youtube.com##*[opened]
+youtube.com##tp-yt-paper-dialog[role=dialog]
+youtube.com##tp-yt-iron-overlay-backdrop[opened]
